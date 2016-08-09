@@ -1,6 +1,3 @@
-Odoo - From ERP to CRM, eCommerce to CMS
-----------------------------------------
-
 Clouder
 -------
 
