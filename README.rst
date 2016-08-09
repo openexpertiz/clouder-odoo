@@ -1,5 +1,5 @@
-Clouder
--------
+Clouder - Hosting your applications inside containers
+-----------------------------------------------------
 
 `Clouder`_ is a platform which aim to standardize good practices for hosting open-source software. Whether you are launching a hosting offer, are the sysadmin of a company, or just want to host software for you and your friends, Clouder will allow you to easily deploy and maintain a professionnal infrastructure with very basic technical knowledge.
 
