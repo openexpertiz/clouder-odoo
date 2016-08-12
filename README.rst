@@ -12,9 +12,9 @@ Odoo - From ERP to CRM, eCommerce to CMS
 
 `Odoo`_ is an all-in-one business management suite of mobile-friendly web apps that integrates everything you need to grow your business: CRM, website content management, project management, human resources, accounting, invoicing and more. Odoo apps integrate seamlessly to provide a full-featured open source ERP, but can also be used stand-alone.
 
-This appliance includes all the standard features in `TurnKey Core`_:
+This appliance includes all the standard features in `TurnKey Core`_ +
 
-- Odoo v8 installed from upstream GIT source (`GitHub/Odoo`_)
+- Odoo v8/v9 installed from upstream GIT source (`GitHub/Odoo`_)
 - Clouder v8.1 installed from upstream GIT source (`GitHub/Clouder`_)
 - Includes all base modules from base install of Odoo and Clouder
 - SSL support out of the box.
